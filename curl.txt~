@@ -1,0 +1,4 @@
+curl http://www.slashdot.org > slashdot.org
+curl -request DELETE slashdot.org > deleteslashdot.html
+curl -request PUT slashdot.org > putslashdot.html
+curl -request GET slashdot.org > getslashdot.html
