@@ -1,7 +1,9 @@
 
 #This was done pair programming there were no more computers, Camerons
 #computer was not working. 
+#Brian made changes to have 3 different courses
 #Cameron Alexander and Brian TRINH
+
 
 class Student:
 		
@@ -31,7 +33,7 @@ class Student:
 obj1 = Student("brian","trinh")
 obj1.addCourseMark("Cmput412341","23")
 obj1.addCourseMark("Cmput4102341","45")
-obj1.addCourseMark("Cmput4102341","90")
+obj1.addCourseMark("Cmput410231","90")
 print(obj1.average())
 
 
